@@ -27,7 +27,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
-    GoogleAdsClient = ''					# Google AdSense 
+    GoogleAdsClient = 'ca-pub-7298119761242775'					# Google AdSense 
 
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"
